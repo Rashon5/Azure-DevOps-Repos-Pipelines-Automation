@@ -9,8 +9,8 @@ In this project, you, as a DevOps engineer, will deploy a serverless website in 
    - jwtst
    - jwqa
    - jwprd
-     - Deploy 3 storage accounts - Code: 
-     - Destroy 3 storage accounts - Code: https://github.com/Rashon5/Azure-DevOps-Repos-Pipelines-Automation/blob/main/Destroy-Storage-Accounts.sh
+     - [Code: Deploy 3 storage accounts](https://github.com/Rashon5/Azure-DevOps-Repos-Pipelines-Automation/blob/main/Deploy-Storage-Accounts.sh) 
+     - [Code: Destroy 3 storage accounts](https://github.com/Rashon5/Azure-DevOps-Repos-Pipelines-Automation/blob/main/Destroy-Storage-Accounts.sh)
 
    **Data management > Static website > Enabled**
    - Index document name: index.html
