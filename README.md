@@ -14,7 +14,7 @@ In this project, you, as a DevOps engineer, will deploy a serverless website in 
 
    **Data management > Static website > Enabled**
    - Index document name: index.html
-   - Copy primary endpoint below:
+   - Save primary endpoints below:
 
    - URL tst: https://jwtst.z13.web.core.windows.net/
    - URL qa: https://jwqa.z13.web.core.windows.net/
