@@ -20,7 +20,7 @@ In this project, you, as a DevOps engineer, will deploy a serverless website in 
    - URL qa: https://jwqa.z13.web.core.windows.net/
    - URL prd: https://jwprd.z13.web.core.windows.net/
 
-2. **Azure DevOps Organization** - https://dev.azure.com/Punkery/Punkery-07
+2. **Azure DevOps Organization** - https://dev.azure.com
    - Create project (name whatever you want) - Punkery-01
 
    **Repos > Generate Git Credentials**
