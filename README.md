@@ -19,12 +19,15 @@ In this project, you, as a DevOps engineer, will deploy a serverless website in 
    - URL tst: https://jwtst.z13.web.core.windows.net/
    - URL qa: https://jwqa.z13.web.core.windows.net/
    - URL prd: https://jwprd.z13.web.core.windows.net/
+![https://i.imgur.com/nLQWkO7.png](https://i.imgur.com/nLQWkO7.png)
+  
 
 2. **Azure DevOps Organization** - https://dev.azure.com
    - Create project (name whatever you want) - Punkery-01
 
    **Repos > Generate Git Credentials**
    - Copy credentials to Notepad++:
+![https://i.imgur.com/mLbcLOl.png](https://i.imgur.com/mLbcLOl.png)
 
    **Download from GitBash (or browser):** 
    - `curl -O https://tcb-bootcamps.s3.amazonaws.com/bootcamp-microsoft-azure/en/mod7-azuredevops.zip`
@@ -115,6 +118,8 @@ In this project, you, as a DevOps engineer, will deploy a serverless website in 
 
    - Click on Pre-deployment conditions icon (Checked lightning bolt/person)
      - Enable Pre-deployment approvals: Add Azure account email
+    
+![https://i.imgur.com/Wo31YSU.png](https://i.imgur.com/Wo31YSU.png)
 
 ## Part 3
 
@@ -128,6 +133,8 @@ In this project, you, as a DevOps engineer, will deploy a serverless website in 
    - Go to Testing and QA environment
 
    - Approve Production
+  
+![https://i.imgur.com/G2th0dQ.png](https://i.imgur.com/G2th0dQ.png)
 
 3. **Change index.html file**
    - Change `Congratulations!!!` to `Good Job!!!`:
@@ -149,6 +156,7 @@ In this project, you, as a DevOps engineer, will deploy a serverless website in 
      git pull (If needed)
      git push -u origin --all
      ```
+![https://i.imgur.com/a57NVwU.png](https://i.imgur.com/a57NVwU.png)
 
 ## What I Learned
 During this project, I learned how to fully automate the deployment of a serverless website using Azure DevOps. Key takeaways include:
